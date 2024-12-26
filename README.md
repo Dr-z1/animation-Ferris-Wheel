@@ -1,32 +1,46 @@
+# **Ferris Wheel Webpage Project**
 
-This website was built using Free Code Camp instructions: Learn CSS Animation By Building Ferris Wheel
+## **Project Overview**
 
-Section: Responsive Web Design 
+#### This Project Is A **Ferris Wheel**, Developed As Part of The FreeCodeCamp Curriculum. 
 
-Course Name: Learn CSS Animation By Building Ferris Wheel
+#### The Primary Goal Is Learn How To Use CSS To Animate Elements By Building A Ferris Wheel.
 
-Deatils:
+## **Course Details**
 
-You can use CSS animation to draw attention to specific sections of your webpage and make it more engaging.
++ **Course Section**: Responsive Web Design.
+  
++ **Project Name**: Ferris Wheel.
+  
++ This Site Was Built Using **[Free Code Camp](https://www.freecodecamp.org/).**
+  
++ This Project Is One of The **Required Tasks** To Earn The Certification In Responsive Web Design.
 
-In this course, you'll build a Ferris wheel. You'll learn how to use CSS to animate elements, transform them, and adjust their speed.
+## **Purpose**
 
-Link:
+You Can Use CSS Animation To Draw Attention To Specific Sections Of Your Webpage And Make It More Engaging.  
 
-https://www.freecodecamp.org/
+In This Course, You'll Build A Ferris Wheel. 
 
+You'll Learn How To Use CSS To Animate Elements, Transform Them, And Adjust Their Speed.
 
+## **Acknowledgment**
 
+This Project Was Created Following The Instructions Provided By **FreeCodeCamp**.
 
+**All rights** To This Project And Its Related Materials Belong To **FreeCodeCamp**, A Free Educational Platform Offering Structured Courses And Hands-on Projects.
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+I Am Showcasing This Project As Part of My Learning Journey, Completed Based on FreeCodeCamp's Resources And Guidance.
 
+A Big Thank You To **FreeCodeCamp** For Their Well-Structured Curriculum, Projects, And Partially Provided Code Snippets That Made This Project Possible.
 
-This WebSite or Project Was Built Using The Instructions of The Free Code Camp  WebSite.
+## **Special Thanks**
 
-Therefore, All Rights In This WebSite or Project Belong To The Free Code Camp Site, A Free Educational Site That Contains Many Projects.
+I Would Also Like To Extend **My Gratitude** To The Following Channels For Their Guidance In Writing The Code:
 
-I Am Only Reviewing The Project After Building It From Their Site, So The Project Does Not Belong To Me.
+**[@codeManS](https://www.youtube.com/@codeManS)**
 
-I Would Like To thank The Educational Website Free Code Camp For Teaching Me By Providing Projects , Instructions , And Part of The Codes
+**[@landonschlangen](https://www.youtube.com/@landonschlangen)**
+
+These Resources Provided Valuable Insights And Helped Me Refine My Coding Skills.
 
